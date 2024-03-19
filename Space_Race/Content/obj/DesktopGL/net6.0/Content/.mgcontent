@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/noahhall/School/com_s_437/monogame3D/Space_Race/Content/alpha.png</File>
+    <File>/Users/noahhall/School/com_s_437/monogame3D/Space_Race/Content/ao.png</File>
+    <File>/Users/noahhall/School/com_s_437/monogame3D/Space_Race/Content/donut.fbx</File>
+    <File>/Users/noahhall/School/com_s_437/monogame3D/Space_Race/Content/EmptySpace.dds</File>
+    <File>/Users/noahhall/School/com_s_437/monogame3D/Space_Race/Content/material_diffuse.png</File>
+    <File>/Users/noahhall/School/com_s_437/monogame3D/Space_Race/Content/material_roughness_2k.png</File>
+    <File>/Users/noahhall/School/com_s_437/monogame3D/Space_Race/Content/normal_deep.png</File>
+    <File>/Users/noahhall/School/com_s_437/monogame3D/Space_Race/Content/Space_Jet_Atlas_color_adjusted_lighter.png</File>
+    <File>/Users/noahhall/School/com_s_437/monogame3D/Space_Race/Content/Space_Jet_Atlas_emission.png</File>
+    <File>/Users/noahhall/School/com_s_437/monogame3D/Space_Race/Content/Space_Jet_Atlas_roughness.png</File>
+    <File>/Users/noahhall/School/com_s_437/monogame3D/Space_Race/Content/Space_Ship.fbx</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

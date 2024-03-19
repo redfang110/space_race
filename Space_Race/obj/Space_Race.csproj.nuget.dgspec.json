@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/noahhall/School/com_s_437/monogame3D/Space_Race/Space_Race.csproj": {}
+  },
+  "projects": {
+    "/Users/noahhall/School/com_s_437/monogame3D/Space_Race/Space_Race.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/noahhall/School/com_s_437/monogame3D/Space_Race/Space_Race.csproj",
+        "projectName": "Space_Race",
+        "projectPath": "/Users/noahhall/School/com_s_437/monogame3D/Space_Race/Space_Race.csproj",
+        "packagesPath": "/Users/noahhall/.nuget/packages/",
+        "outputPath": "/Users/noahhall/School/com_s_437/monogame3D/Space_Race/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/noahhall/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "BepuPhysics": {
+              "target": "Package",
+              "version": "[1.5.2, )"
+            },
+            "MonoGame.Content.Builder.Task": {
+              "target": "Package",
+              "version": "[3.8.1.303, )"
+            },
+            "MonoGame.Framework.DesktopGL": {
+              "target": "Package",
+              "version": "[3.8.1.303, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.411/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
